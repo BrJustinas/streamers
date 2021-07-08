@@ -1,5 +1,5 @@
 # twitch-streamers
-twitch streamers –  is a project that allows you to create a list of Twitch.tv streamers in order to promote them.
+twitch streamers –  is an application that allows you to create a list of Twitch.tv streamers in order to promote them.
 
 
 ### Q: What is the best way for me to host this project locally or remotely?
@@ -10,5 +10,7 @@ A: To ensure that the application works as expected, use the .env_sample file. *
 You will need: [MongoDB URI](https://www.mongodb.com/), [Twitch Client ID](https://twitchtokengenerator.com/), [Twitch Client Secret](https://twitchtokengenerator.com/).
 
 Heroku: https://twitchstreamers.herokuapp.com/
+
+Blog post: https://brjustinas.com/blog/insights-on-my-twitch-streamers-application/
 
 **HTML**, **CSS**, **SCSS**, **JS**, **NODEJS**, **EXPRESS**, **EJS**, **JWT**, **MONGODB**, **TWITCH.TV API**
